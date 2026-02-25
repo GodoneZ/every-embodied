@@ -172,6 +172,7 @@
 
   ## 🔥 News & Highlights
 
+  - **[2025-02-23]** 新增春晚武术机器人复刻视频教程 https://www.datawhale.cn/learn/content/258/6228
   - **[2025-02-22]** 新增 ETPNav(IEEE TPAMI 2024)复现教程指导
   - **[2025-02-21]** 新增春晚武术机器人复刻
   - **[2025-02-16]** 新增GenieSim一键启动镜像和视频教程
@@ -197,6 +198,8 @@
   Joycon服务器本地异步遥控机械臂教程：https://www.datawhale.cn/learn/content/258/5728
 
   Mujoco仿真UR机械臂抓取实验：https://www.bilibili.com/video/BV1WhxeznE61/
+
+  春晚武术机器人复刻视频教程：https://www.datawhale.cn/learn/content/258/6228
 
   
 
@@ -240,7 +243,7 @@
   - **OS**: Ubuntu 20.04 / 22.04 (推荐)
   - **Core Libs**:
     - `MuJoCo` (物理引擎)
-    - `Isaac Sim` (Nvidia 仿真平台)
+    - `Isaac Sim` (Nvidia 仿真平台，需要IsaacSim配置时我们会为大家提供预安装的一键启动镜像)
 
   ## 🤝 参与贡献
 
