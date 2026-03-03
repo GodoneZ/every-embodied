@@ -39,7 +39,7 @@ pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 \
 
 ### 1.2 安装项目依赖
 
-下载 `requirements.txt`：[百度网盘](https://pan.baidu.com/s/1DYUuarqQaCKdvrs8GNGiVw) (提取码: `dcmt`) 
+下载 `requirements.txt`：[百度网盘](https://pan.baidu.com/s/1PU1pm596QtL8ZNG08602Dg) (提取码: `8je8`) 
 
 ```bash
 pip install "pip<24.1" setuptools==65.5.0 wheel==0.38.4
@@ -117,7 +117,7 @@ git clone https://gh-proxy.org/https://github.com/MarSaKi/ETPNav.git
 | --- | --- | --- |
 | **R2R_VLNCE_v1-2_preprocessed** | [Google Drive](https://drive.google.com/file/d/1j9sQ0w4wFYSafh42U8VCuKTwMrnrsV6z/view) | `data/datasets` |
 | **R2R_VLNCE_v1-2_preprocessed_BERTidx** | [百度网盘](https://pan.baidu.com/s/1Sz7Q7iXcLV7ToQ0FeZmHIg) (提取码: `88yy`) | `data/datasets` |
-| **RxR** | [百度网盘](https://pan.baidu.com/s/1bcgUSQ4WDawxkrpj9FFU9w) (提取码: `eqph`) | `data/datasets` |
+| **RxR** | [百度网盘](https://pan.baidu.com/s/1WZwKwdBt0ofdmuTKmWjHSQ) (提取码: `g317`) | `data/datasets` |
 
 ### 2.3 连通图 (Connectivity Graphs)
 
