@@ -175,6 +175,9 @@ cython_debug/
 
 eval_videos/
 
+
+third_party/
+
 lerobot
 demo_data
 demo_data_language
@@ -184,3 +187,11 @@ datawhale_eai_pnp
 .venv
 wandb
 datawhale_eai_pnp_language
+
+# Robotics generated datasets/logs/artifacts
+**/demo_data*/
+**/MUJOCO_LOG.TXT
+**/eval_videos/
+**/wandb/
+**/ckpt/
+**/tmp_*.json

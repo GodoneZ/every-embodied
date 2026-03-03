@@ -277,7 +277,14 @@ wandb:
   disable_artifact: true
 ```
 
+
+
+后续，我们还会为大家补充展示多条数据训练ACT和diffusion训练抓取实验。敬请期待。
+
+
+
 ## 致谢
+
 - Robotis-OMY 机械臂资源来自 [robotis_mujoco_menagerie](https://github.com/ROBOTIS-GIT/robotis_mujoco_menagerie/tree/main)
 - [MuJoco Parser Class](./mujoco_env/mujoco_parser.py) 改自 [yet-another-mujoco-tutorial-v3](https://github.com/sjchoi86/yet-another-mujoco-tutorial-v3)
 - 教程参考了 [lerobot examples](https://github.com/huggingface/lerobot/tree/main/examples)
